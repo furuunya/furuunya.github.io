@@ -1,2 +1,3 @@
 # furuunya.github.io
-wtf is this
+sus
+<a href=ui.html> ui </a>
